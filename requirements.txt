@@ -1,0 +1,6 @@
+Pillow
+scikit_image
+sentence_transformers
+skimage
+timm==0.3.2
+tqdm
