@@ -9,7 +9,7 @@ This work introduces and implements ComposeTransformers, the end-to-end recommen
 
 ## A. Paper and Seminar meterial
 
-#### ⭐ For detail of report, watch [this article](https://github.com/hoangtv2000/Clothing_MMRetrieval/blob/main/article.pdf).
+#### ⭐ For detail of report, watch [this article](https://github.com/hoangtv2000/Clothing_MMRetrieval/blob/main/retrieval.pdf).
 
 #### ⭐ For slide of the seminar, watch [here](https://github.com/hoangtv2000/Clothing_MMRetrieval/blob/main/presentation.pptx).
 
