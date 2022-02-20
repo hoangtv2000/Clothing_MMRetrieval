@@ -76,9 +76,14 @@ Annotations for modules of source code:
 
 ## D. Demo
 
+<div align='center'>
+<b>Output process</b>
+</div>
 
-<div align='center'>	
+<div align='center'>
+	
 <a link href ='https://user-images.githubusercontent.com/58163069/154830995-0d26c5c0-e877-483f-b2db-78d0bd061628.mp4'>Demo </a>
+
 </div>
 
 <div align='center'>
