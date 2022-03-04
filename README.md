@@ -1,7 +1,7 @@
 # Clothing Retrieval
 
 **Abstract.** 
-This work introduces and implements ComposeTransformers, the end-to-end recommender system for woman clothing via image-text content retrieval.
+In this work, we construct an advanced recommender system for clothing retrieval by image-content queries. Where users give an image of clothing and ask for the modification by text, the system yields the answer by an image according to their request. Employing the Transformers-based image and text feature extractors. Learning the composition features by supervised Deep Metric Learning, and satisfying the rotational symmetry constraint on complex feature space, our ComposeTransformers retrieves 55.42% of relevant images on the total of 2,646 test images on the database when performing 1200 queries and taking top 50 search results.
 
 **Keywords**: Vision Transformer, BERT, multi-modal search.
 
