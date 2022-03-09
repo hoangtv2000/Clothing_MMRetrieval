@@ -7,11 +7,9 @@ In this work, we construct an advanced recommender system for clothing retrieval
 
 
 
-## A. Paper and Seminar meterial
+## A. Paper meterial
 
 #### ⭐ For detail of report, watch [this article](https://github.com/hoangtv2000/Clothing_MMRetrieval/blob/main/retrieval.pdf).
-
-#### ⭐ For slide of the seminar, watch [here](https://github.com/hoangtv2000/Clothing_MMRetrieval/blob/main/presentation.pptx).
 
 
 ## B. Technial tool
