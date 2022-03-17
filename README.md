@@ -34,24 +34,6 @@ Annotations for modules of source code:
 **Ask me in issue if you look foward to the pre-trained model**
 
 ### Evaluation results
-<div class="tg-wrap"><table class="tg">
-  <tr>
-    <th class="tg-7btt" colspan="4">Precision (%) </th>
-  </tr>
-  <tr>
-    <td class="tg-7btt">P@1</td>
-    <td class="tg-7btt">P@10</td>
-    <td class="tg-7btt">P@50</td>
-    <td class="tg-7btt">P@100</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">0.25</td>
-    <td class="tg-c3ow">5.5</td>
-    <td class="tg-c3ow">31.6</td>
-    <td class="tg-c3ow">58.0</td>
-  </tr>
-</table></div>
-
 
 <div class="tg-wrap"><table class="tg">
   <tr>
